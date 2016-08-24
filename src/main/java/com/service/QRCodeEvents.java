@@ -21,8 +21,8 @@ public class QRCodeEvents {
 
 		String qrcodeFilePath = "";
         try {
-            int qrcodeWidth = 300;
-            int qrcodeHeight = 300;
+            int qrcodeWidth = 500;
+            int qrcodeHeight = 500;
             String qrcodeFormat = "png";
             HashMap<EncodeHintType, String> hints = new HashMap<EncodeHintType, String>();
             hints.put(EncodeHintType.CHARACTER_SET, "UTF-8");
