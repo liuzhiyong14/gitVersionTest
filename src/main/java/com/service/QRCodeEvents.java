@@ -3,9 +3,7 @@ package com.service;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.nio.file.Path;
-import java.util.Date;
 import java.util.HashMap;
-import java.util.Random;
 import java.util.UUID;
 
 import javax.imageio.ImageIO;
