@@ -22,6 +22,8 @@ public class MyTest {
 		User user = new User(1, "zhangsan", 18);
 		String outJson = mapper.writeValueAsString(user);
 		System.out.println(outJson);
+		
+		//提交分支测试
 	}
 
 }
